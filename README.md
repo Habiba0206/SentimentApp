@@ -16,6 +16,6 @@ This project is my first step into ML.NET, focusing on training and testing a **
 
 ### ▶️ Running the App
 ```bash
-git clone https://github.com/<your-username>/SentimentApp.git
+git clone https://github.com/Habiba0206/SentimentApp.git
 cd SentimentApp
 dotnet run
